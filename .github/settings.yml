@@ -41,6 +41,8 @@ branches:
       restrictions:
         users: []
         teams: []
+  - name: dolphin
+    protection: null
 
 # Labels: define labels for Issues and Pull Requests
 labels:
