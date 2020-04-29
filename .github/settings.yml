@@ -26,7 +26,7 @@ branches:
       # Required. Restrict who can push to this branch. Team and user restrictions are only available for organization-owned repositories. Set to null to disable.
       restrictions:
         users: []
-        teams:[]
+        teams: []
   - name: tomatoes
     protection:
       required_pull_request_reviews:
