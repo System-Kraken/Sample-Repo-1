@@ -46,9 +46,7 @@ branches:
       required_pull_request_review: null
       required_status_checks: null
       enforce_admins: null
-      restrictions:
-        users: []
-        teams: []
+      restrictions: null
 
 # Labels: define labels for Issues and Pull Requests
 labels:
