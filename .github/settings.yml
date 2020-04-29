@@ -43,7 +43,7 @@ branches:
         teams: []
   - name: dolphin
     protection:
-      required_pull_request_review: null
+      required_pull_request_reviews: null
       required_status_checks: null
       enforce_admins: null
       restrictions: null
